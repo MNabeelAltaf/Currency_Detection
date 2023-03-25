@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pakistan_sbp_20_rupees_2012.00.00_b233h_p55_dr_5901281_r.jpg</filename>
+	<path>/my-project-name/pakistan_sbp_20_rupees_2012.00.00_b233h_p55_dr_5901281_r.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>20 rupee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>462</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

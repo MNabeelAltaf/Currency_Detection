@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>50542021_520489571770648_2050237174577627136_n.jpg</filename>
+	<path>/my-project-name/50542021_520489571770648_2050237174577627136_n.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>1040</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>20 rupee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>31</ymin>
+			<xmax>746</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+</annotation>

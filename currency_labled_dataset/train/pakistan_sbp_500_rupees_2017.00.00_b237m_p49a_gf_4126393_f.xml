@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pakistan_sbp_500_rupees_2017.00.00_b237m_p49a_gf_4126393_f.jpg</filename>
+	<path>/my-project-name/pakistan_sbp_500_rupees_2017.00.00_b237m_p49a_gf_4126393_f.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>500 rupee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>460</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

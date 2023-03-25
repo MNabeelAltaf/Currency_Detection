@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG-20181012-WA0017.jpg</filename>
+	<path>/my-project-name/IMG-20181012-WA0017.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>10 rupee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>188</ymin>
+			<xmax>772</xmax>
+			<ymax>1187</ymax>
+		</bndbox>
+	</object>
+</annotation>

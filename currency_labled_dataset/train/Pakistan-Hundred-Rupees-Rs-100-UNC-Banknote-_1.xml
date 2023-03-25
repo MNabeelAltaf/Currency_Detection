@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Pakistan-Hundred-Rupees-Rs-100-UNC-Banknote-_1.jpg</filename>
+	<path>/my-project-name/Pakistan-Hundred-Rupees-Rs-100-UNC-Banknote-_1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>100 rupee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>5</ymin>
+			<xmax>396</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

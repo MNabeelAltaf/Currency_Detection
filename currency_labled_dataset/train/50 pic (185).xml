@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>50 pic (185).jpg</filename>
+	<path>/my-project-name/50 pic (185).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>723</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>50 rupee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>234</ymin>
+			<xmax>568</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>
